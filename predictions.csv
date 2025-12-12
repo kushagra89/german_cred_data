@@ -1,0 +1,6 @@
+Age,Sex,Job,Housing,Saving accounts,Checking account,Credit amount,Duration,Purpose,prediction
+35,Male,2,own,moderate,moderate,2500,12,car,good
+28,female,1,rent,little,little,1200,10,education,bad
+45,male,3,free,rich,rich,5000,24,furniture/equipment,good
+31,female,2,own,quite rich,moderate,3000,15,radio/TV,good
+52,male,2,rent,little,none,4000,18,car,good

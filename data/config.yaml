@@ -1,0 +1,4 @@
+paths:
+  raw_data: data/raw/german_credit_data.csv
+  processed: data/processed/processed_data.pkl
+  model: model/model.pkl
